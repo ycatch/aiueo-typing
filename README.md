@@ -1,6 +1,6 @@
 # あいうえおタイピング
 
-[ローマ字が初めての子のためのタイピング](https://marmooo.github.io/aiueo-typing/)です。
+初めてのローマ字タイピングです。
 
 ## Build
 

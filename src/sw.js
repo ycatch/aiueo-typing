@@ -8,7 +8,7 @@ var urlsToCache = [
   "/aiueo-typing/mp3/end.mp3",
   "/aiueo-typing/mp3/keyboard.mp3",
   "/aiueo-typing/favicon/favicon.svg",
-  "https://marmooo.github.io/fonts/textar-light.woff2",
+  "https://github.com/ycatch/fonts/textar-light.woff2",
   "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css",
   "https://cdn.jsdelivr.net/npm/simple-keyboard@3.4.52/build/index.min.js",
 ];
